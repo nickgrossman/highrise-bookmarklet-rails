@@ -1,5 +1,4 @@
-slashawesome
-============
+# the /awesome project
 
 The /awesome project's goal is to surface the stories and stats the demonstrate how often the web is.
 
@@ -11,11 +10,9 @@ each /awesome page would answer a simple question:
 
 This would be the place for each community to pick the “holy shit” stories -- and they are so, so many -- and surface them, for the benefit of the entire movement.   This would be about real people and real stories -- coming from the bottom up / edges in.  
 
-## Format
+## /awwesome tools:
 
 Each /awesome page could be totally unique and different -- and could be designed / moderated / edited / curated in whichever way is appropriate to that community.
-
-**/awwesome tools:**
 
 As an open source project, we can develop a handful of tools to help people bootstrap their pages.
 
