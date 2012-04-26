@@ -29,6 +29,6 @@ I will be important for /awesome pages to publish machine-readable data that des
 
 So, a spec -- maybe as simple as RSS for content, and perhaps something more tailored eventually for different kinds of data.
 
-**join in**
+## join in
 
 This is just the eensy weensy start of an idea.  There's a discussion list [here](https://groups.google.com/forum/?fromgroups#!forum/slashawesome) - please feel free to join in.
