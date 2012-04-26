@@ -1,6 +1,6 @@
 # the /awesome project
 
-The /awesome project's goal is to surface the stories and stats the demonstrate how often the web is.
+The goal of the /awesome (pronounced "slash awesome") project is to surface the stories and stats the demonstrate how often the web is.
 
 What if every website who wanted to (from huge providers like Google, to networks like Etsy, to independent bloggers and individuals) added a new page to their website, located at **/awesome**.
 
